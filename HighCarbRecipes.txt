@@ -1,0 +1,21 @@
+Pizza:Thin Crust,Extra Cheese tomatoes:10.00:560
+Chicken Pizza:Thick Crust,baked Chicken:10.00:360
+Pesto Chicken Pasta:Black Olives,Chicken:20.00:360
+Chicken Alfredo Pasta: Chicken,White Sauce:20.00:560
+Ravioli Pasta: Chicken,White Sauce,Ravioli:20.00:560
+French Fries:Medium:5.00:500
+French Chilly Fries:Large:5.00:500
+Curly Fries:Medium:5.00:500
+Chicken Nuggets: Large:7.00:560
+Mozrella Sticks: Large:7.00:660
+Chicken Cheese Pastrami:Baked Chicken,Spinach,MOzarella:7.00:360
+Egg Chicken Quiche:Egg, Chicken, Broccoli, Carrots:10.00:300
+Chilli Chicken: Chicken, Peppers:13.00:360
+Fried Shrimp Rice: Brown Rice,Shrimp, bell pepper:12.00:400
+Thai Fried Rice: White Rice,sprouts, bell pepper:12.00:400
+Mushroom Chicken Rice: Chicken,White Rice,Mushrooms, bell pepper:12.00:400
+Blueberry Parfait: Yogurt,blueberries,Maple syrup:10.00:300
+Strawberry Parfait: Yogurt,Strawberry,Maple syrup:10.00:300
+Choclate chip Parfait:Yogurt,Choclate chip,Maple syrup:10.00:300
+Choclate Cake: Choclate:15.00:700
+Choclate Mousse: Choclate, Cream:10.00:500

@@ -1,0 +1,20 @@
+Tomato Soup:Tomatoes,Celery:10.00:50
+Zucchini Soup: Zucchini,Tomatoes:10.00:50
+Chicken Soup:Chicken,Celery:10.00:60
+Brocht:Cabbage,celery:10.00:60
+Mixed Soup: Chicken,Vegetables:10.00:80
+Manchow Chicken Soup: Chicken,Beans:10.00:70
+Zucchini Pasta:ZucchiniBlack Olives:20.00:80
+Turkey Pastrami:Baked Turkey,Spinach,carrots:7.00:100
+Chicken Pastrami:Baked Chicken,Spinach,carrots:7.00:100
+Whole Wheat Pasta: carrots,Beans:12.00:160
+Egg Quiche:Egg, Broccoli, Carrots:10.00:100
+Greek Crepe: Avocado,Arugula,Eggplant:15.00:100
+Chicken Crepe: Avocado,Arugula,Chicken:15.00:100
+Oats: Oats,Honey,milk:5.00:56
+Shrimp Tacos: Tacos,Shrimp:15.00:156
+Garden Salad:Lettuce,Tofu,tomatoes,onions:10.00:56
+Quinoa Salad:Chickpeas,Quinoa,Kale:10.00:30
+Quinoa Tabouli Salad:Avocadoes,Chickpeas,Quinoa,Kale:10.00:56
+Couscous Shrimp Salad: Shrimp,Couscous:12.00:78
+Fruit Salad: Banana,Apple,Grapes:15.00:70

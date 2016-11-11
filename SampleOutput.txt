@@ -1,0 +1,104 @@
+=================================VEGAN MEAL=====================================
+CUSTOMER_NAME: Mary Jones
+TODAY'S DATE : Mon Oct 24 02:20:09 PDT 2016
+-----------DETAILS OF MEAL PLAN-----------
+LUNCH : Avocado Crepe
+DESCRIPTION :  Avocado,Arugula,Eggplant
+CALORIES : 100cal
+COST : $15.0
+
+DINNER : Choclate chip Pancakes
+DESCRIPTION : Almond milk,Choclate chip,Maple syrup
+CALORIES : 300 cal
+COST : $10.0
+DELIVERY FEE : $5.0
+TOTAL MEAL COST: $15.0
+
+TOTAL COST OF PLAN : $30.0
+DAY OF WEEK : MONDAY
+=================================LOW CARB MEAL=====================================
+CUSTOMER_NAME: Jimmy Fallon
+TODAY'S DATE : Mon Oct 24 02:20:09 PDT 2016
+-----------DETAILS OF MEAL PLAN-----------
+LUNCH : Brocht
+DESCRIPTION : Cabbage,celery
+CALORIES : 60cal
+COST : $10.0
+
+DINNER : Chicken Pastrami
+DESCRIPTION : Baked Chicken,Spinach,carrots
+CALORIES : 100 cal
+COST : $7.0
+DELIVERY FEE : $5.0
+TOTAL MEAL COST: $12.0
+
+TOTAL COST OF PLAN : $22.0
+DAY OF WEEK : MONDAY
+=================================HIGH CARB MEAL=====================================
+CUSTOMER_NAME: Saptarshi Sen
+TODAY'S DATE : Mon Oct 24 02:20:09 PDT 2016
+-----------DETAILS OF MEAL PLAN-----------
+LUNCH : Choclate Mousse
+DESCRIPTION :  Choclate, Cream
+CALORIES : 500cal
+COST : $10.0
+
+DINNER : Mushroom Chicken Rice
+DESCRIPTION :  Chicken,White Rice,Mushrooms, bell pepper
+CALORIES : 400 cal
+COST : $12.0
+DELIVERY FEE : $5.0
+TOTAL MEAL COST: $17.0
+
+TOTAL COST OF PLAN : $27.0
+DAY OF WEEK : MONDAY
+=================================VEGAN MEAL=====================================
+INVALID VISA CARD NUMBER
+
+INVALID VISA CARD LENGTH
+
+NOT ENOUGH BALANCE ON CARD
+
+ENTER VALID MASTER OR VISA CARD
+
+INVALID MASTER CARD NUMBER
+
+INVALID MASTER CARD LENGTH
+
+CUSTOMER_NAME: Vanita Ray
+TODAY'S DATE : Mon Oct 24 02:20:09 PDT 2016
+-----------DETAILS OF MEAL PLAN-----------
+LUNCH : Thai Rice
+DESCRIPTION :  White Rice,sprouts, bell pepper
+CALORIES : 400cal
+COST : $12.0
+
+DINNER : Strawberry Pancakes
+DESCRIPTION :  Almond milk,Strawberry,Maple syrup
+CALORIES : 300 cal
+COST : $10.0
+DELIVERY FEE : $5.0
+TOTAL MEAL COST: $15.0
+
+TOTAL COST OF PLAN : $27.0
+DAY OF WEEK : MONDAY
+
+** VANITA'S NEXT VEGAN ORDER **
+
+CUSTOMER_NAME: Vanita Ray
+TODAY'S DATE : Mon Oct 24 02:20:09 PDT 2016
+-----------DETAILS OF MEAL PLAN-----------
+LUNCH : Tofu Pastrami
+DESCRIPTION : Baked Tofu,Spinach,carrots
+CALORIES : 200cal
+COST : $7.0
+
+DINNER : Garden Salad
+DESCRIPTION : Lettuce,Tofu,tomatoes,onions
+CALORIES : 30 cal
+COST : $10.0
+DELIVERY FEE : $5.0
+TOTAL MEAL COST: $15.0
+
+TOTAL COST OF PLAN : $22.0
+DAY OF WEEK : MONDAY

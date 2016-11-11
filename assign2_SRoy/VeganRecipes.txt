@@ -1,0 +1,20 @@
+Tofu Pizza:Thin Crust, tomatoes:10.00:360
+Nepolean Pizza:Thick Crust,baked vegetable:10.00:360
+Pesto Pasta:Black Olives:20.00:360
+Vegan French Fries:Medium:5.00:500
+Vegan French Chilly Fries:Large:5.00:500
+Vegan Curly Fries:Medium:5.00:500
+Tofu Pastrami:Baked Tofu,Spinach,carrots:7.00:200
+Quiche:Tofu, Broccoli, Carrots:10.00:300
+Vegan Chilli: Eggplant, Tofu, Tomatoes:13.00:360
+Fried Rice: Brown Rice, bell pepper:12.00:400
+Thai Rice: White Rice,sprouts, bell pepper:12.00:400
+Mushroom Rice: White Rice,Mushrooms, bell pepper:12.00:400
+Blueberry Pancakes: Almond milk,blueberries,Maple syrup:10.00:300
+Strawberry Pancakes: Almond milk,Strawberry,Maple syrup:10.00:300
+Choclate chip Pancakes:Almond milk,Choclate chip,Maple syrup:10.00:300
+Garden Salad:Lettuce,Tofu,tomatoes,onions:10.00:30
+Quinoa Salad:Chickpeas,Quinoa,Kale:10.00:30
+Quinoa Tabouli Salad:Avocadoes,Chickpeas,Quinoa,Kale:10.00:30
+Avocado Crepe: Avocado,Arugula,Eggplant:15.00:100
+Choclate cookies: Choclate, flour:10.00:500
